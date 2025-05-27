@@ -405,7 +405,7 @@ class AvgPool2D:
 
 （由于截图大小限制，只有最终的部分结果截图，后面会展示复制的全部输出）
 
-![image-20250521152203559](C:\Users\22918\AppData\Roaming\Typora\typora-user-images\image-20250521152203559.png)
+![image-20250521152203559](https://github.com/IYuanM/CNN_Net/blob/main/CNN%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 
 **全部输出：**
 
